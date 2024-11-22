@@ -1,5 +1,11 @@
 # zod-path-proxy
 
+## 0.1.3
+
+### Patch Changes
+
+- 5a148cb: Add repository in the package.json
+
 ## 0.1.2
 
 ### Patch Changes
