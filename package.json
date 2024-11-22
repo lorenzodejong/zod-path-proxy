@@ -1,6 +1,6 @@
 {
   "name": "zod-path-proxy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helpers for determining the path of a Zod error",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
