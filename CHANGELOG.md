@@ -1,5 +1,11 @@
 # zod-path-proxy
 
+## 0.1.2
+
+### Patch Changes
+
+- f12e785: Export the functions
+
 ## 0.1.1
 
 ### Patch Changes
