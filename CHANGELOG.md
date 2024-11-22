@@ -1,5 +1,11 @@
 # zod-path-proxy
 
+## 0.1.4
+
+### Patch Changes
+
+- c5c2afd: Update the README with a more concise description
+
 ## 0.1.3
 
 ### Patch Changes
