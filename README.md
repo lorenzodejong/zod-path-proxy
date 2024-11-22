@@ -1,6 +1,6 @@
 # zod-path-proxy
 
-This library provides helpers for determining Zod paths in error messages. This is commonly required when doing more complex [`superRefine`](https://zod.dev/?id=superrefine) operations. This library leans on using [Proxy objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) for determining the accessed properties and resolving it to a Zod path.
+This library provides helpers for automatically resolving Zod paths based on the accessed object property. This is commonly required when doing complex [`superRefine`](https://zod.dev/?id=superrefine) operations through (deeply) nested objects. This library leans on using [Proxy objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) for determining the accessed properties and resolving it to a Zod path.
 
 ## Installation
 
