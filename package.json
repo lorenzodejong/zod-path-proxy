@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "repository": "https://github.com/lorenzodejong/zod-path-proxy",
   "engines": {
     "node": "22",
     "pnpm": "9"
